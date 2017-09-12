@@ -1,4 +1,4 @@
-### Matrix Factorization
+## Matrix Factorization and Application in Recommendation Systems
 
 This is an autonomous project on doing a Matrix Factorization of a evaluation matrix for doing a recommendation system. The story is as follows:
 
